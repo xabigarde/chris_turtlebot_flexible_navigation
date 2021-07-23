@@ -41,7 +41,7 @@ The following directions are for a simple demonstration on a single ROS network.
  * Other launch files include the Willow Garage office model
 
 `roslaunch chris_turtlebot_bringup chris_turtlebot_gazebo.launch`
- * Starts the simulated CHRISlab Turtlebot with a Hokuyo URG-04LX Lidar and Kinect 3D Sensor
+ * Starts the simulated CHRISlab Turtlebot with a YDLIDAR X4 Lidar and Kinect 3D Sensor
  * Places the simulated robot in an existing Gazebo simulation that must be started first.
 
 
